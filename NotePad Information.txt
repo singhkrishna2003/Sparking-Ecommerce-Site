@@ -1,0 +1,10 @@
+To Run this file follow below steps:
+
+1. start XAMP server then
+2. php -S localhost:9000 in Vs Code terminal
+3. Project Video Number 57
+
+Admin Information :
+username : admin@email.com
+password: 12345
+
